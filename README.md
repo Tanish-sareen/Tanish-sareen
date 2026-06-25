@@ -1,4 +1,4 @@
-# Tanishq Sareen
+# Tanish Sareen
  
 **Cybersecurity & Forensics · BCA @ CT University, Punjab**
  
